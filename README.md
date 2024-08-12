@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![handfan](https://github.com/user-attachments/assets/584a7233-a6b3-4bd4-8364-552ece3181f2)
+
 <!--
 **milinD537/milinD537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
